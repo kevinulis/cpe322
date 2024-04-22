@@ -14,6 +14,6 @@
 #
 ![alt text](titanic2.png)
 # Part B
-![alt text](plotFinal.png)
+![alt text](plotFinalNEW.png)
 #
 ![alt text](plotCV2.png)
